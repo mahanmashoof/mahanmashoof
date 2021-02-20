@@ -43,6 +43,7 @@ Tools in profession 🛠️:
 Tools in taining 🕹️:
 <br />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg' height='25' />
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg' height='25' />
