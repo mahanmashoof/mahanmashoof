@@ -33,7 +33,10 @@ Tools in profession 🛠️:
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/next-dot-js.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg' height='25' />
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg' height='25' />
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg' height='25' />
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/heroku.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg' height='25' />
@@ -47,8 +50,6 @@ Tools in taining 🕹️:
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg' height='25' />
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg' height='25' />
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg' height='25' />
 
 <!--
 **mahanmashoof/mahanmashoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
