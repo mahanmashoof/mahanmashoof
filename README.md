@@ -28,6 +28,7 @@ Tools in profession 🛠️:
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg' height='25' />
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rubyonrails.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jquery.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg' height='25' />
