@@ -42,16 +42,17 @@ Tools in profession 🛠️:
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bitbucket.svg' height='25' />
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg' height='25' />
 <br />
 <br />
 Tools in taining 🕹️:
 <br />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg' height='25' />
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg' height='25' />
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/next-dot-js.svg' height='25' />
 
 <!--
 **mahanmashoof/mahanmashoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
