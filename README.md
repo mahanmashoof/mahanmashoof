@@ -43,6 +43,7 @@ Tools in profession 🛠️:
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bitbucket.svg' height='25' />
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg' height='25' />
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftazure.svg' height='25' />
 <br />
 <br />
 Tools in taining 🕹️:
